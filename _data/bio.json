@@ -1,39 +1,34 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Samson Aggelopoulos",
+    "label": "Student at the University of Hawaii at Manoa",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "saggelop@hawaii.edu",
+    "phone": "808-723-9149",
+    "website": "https://samsonagg.github.io",
+    "summary": "B.S. Electrical Engineering at the University of Hawaii. Expected graduation Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "1519 Haka Dr. apt307",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "HI"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "SamsonAgg",
+        "url": "http://github.com/SamsonAgg"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Samson Aggelopoulos",
+        "url": "https://www.linkedin.com/in/samson-aggelopoulos-08a327183/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "s.aggelop",
+        "url": "https://www.instagram.com/s.aggelop/"
       }
     ]
   },
